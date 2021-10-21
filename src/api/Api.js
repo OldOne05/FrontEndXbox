@@ -1,5 +1,5 @@
 export const Api = {
-    baseUrl: "http://localhost:3000",
+    baseUrl: "https://backendxbox.herokuapp.com",
 
     readAllUrl: () => Api.baseUrl + "/usuarios",
 
